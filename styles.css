@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", serif;
+  /* border: 1px solid red; */
+}
+
+li {
+  list-style-type: none;
+}
+
+.hero-section {
+  background-color: #1F2937;
+  height: 100vh;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+}
+
+.header-logo {
+  font-size: 24px;
+  color: #F9FAF8;
+  margin-top: 20px;
+}
+
+.navbar-items {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar-item {
+  font-size: 18px;
+  color: #E5E7EB;
+  margin-top: 20px; 
+  padding-left: 1.5em;
+}
