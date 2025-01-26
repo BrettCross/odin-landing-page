@@ -81,6 +81,7 @@ button {
   width: 125px;
   border-radius: 8px;
   background-color: #3882F6;
+  border: none;
 }
 
 .services-section {
@@ -115,4 +116,28 @@ button {
 
 .card p {
   font-size: 18px;
+}
+
+.quote-section {
+  background-color: #E5E7EB;
+}
+
+.quote-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  padding: 5em 7em;
+}
+.quote-text {
+  font-size: 36px;
+  font-weight: lighter;
+  font-style: italic;
+  color: #1F2937;
+}
+
+.quote-author {
+  font-size: 18px;
+  font-weight: bolder;
+  margin-right: 2em;
 }
