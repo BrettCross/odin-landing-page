@@ -46,7 +46,7 @@ To view the landing page:
 
 ## Acknowledgements
 
-The design was provide by The Odin Project.
+The design was provided by The Odin Project.
 
 ## License
 
